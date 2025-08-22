@@ -1,6 +1,3 @@
 <?php
-   echo "h-w";
+   echo "hello world";
 ?>
-
-
-
