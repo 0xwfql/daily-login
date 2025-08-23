@@ -2,7 +2,8 @@
 using namespace std;
 int main () {
 	
-    cout << "hello world";
+    cout << "h-w";
 	
     return 0;
 }
+
