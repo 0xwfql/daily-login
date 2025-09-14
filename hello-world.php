@@ -1,7 +1,3 @@
 <?php
-   echo "login";
+   echo "nt";
 ?>
-
-
-
-
