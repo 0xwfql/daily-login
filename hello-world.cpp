@@ -2,7 +2,8 @@
 using namespace std;
 int main () {
 	
-    cout << "bro";
+    cout << "tes";
 	
     return 0;
 }
+
