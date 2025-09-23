@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main () {
 	
-   printf("bro");
+   printf("tes");
 	
    return 0;
 }
+
