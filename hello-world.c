@@ -1,10 +1,7 @@
 #include <stdio.h>
 int main () {
 	
-   printf("hello");
+   printf("login");
 	
    return 0;
 }
-
-
-
