@@ -1,5 +1,5 @@
 Module HelloWorld
     Sub Main()
-        Console.WriteLine("Hello World")
+        Console.WriteLine("login")
     End Sub
 End Module
