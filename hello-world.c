@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main () {
 	
-   printf("hallo");
+   printf("github");
 	
    return 0;
 }
