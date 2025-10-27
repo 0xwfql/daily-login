@@ -1,8 +1,7 @@
 #include <stdio.h>
 int main () {
 	
-   printf("y-c");
+   printf("info-c");
 	
    return 0;
 }
-
