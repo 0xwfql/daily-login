@@ -1,6 +1,7 @@
 public class HelloWorld {
     public static void main(String[] args) { 
-        System.out.println("lin-java");
+        System.out.println("info-java");
     }
 }
+
 
