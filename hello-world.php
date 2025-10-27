@@ -1,4 +1,3 @@
 <?php
-   echo ogin-php";
+   echo "info-php";
 ?>
-
