@@ -1,2 +1,1 @@
-print ("loginython")
-
+print ("info-python")
