@@ -2,7 +2,8 @@
 using namespace std;
 int main () {
 	
-    cout << "login-c++";
+    cout << "l-c++";
 	
     return 0;
 }
+
