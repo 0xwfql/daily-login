@@ -2,8 +2,9 @@
 using namespace std;
 int main () {
 	
-    cout << "l-c++";
+    cout << "info-c++";
 	
     return 0;
 }
+
 
