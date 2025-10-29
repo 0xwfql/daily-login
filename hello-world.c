@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main () {
 	
-   printf("info-c");
+   printf("start-c");
 	
    return 0;
 }
+
