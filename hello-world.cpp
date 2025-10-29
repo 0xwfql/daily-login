@@ -2,9 +2,10 @@
 using namespace std;
 int main () {
 	
-    cout << "info-c++";
+    cout << "start-c++";
 	
     return 0;
 }
+
 
 
