@@ -2,7 +2,8 @@
 using namespace std;
 int main () {
 	
-    cout << "hello-c++";
+    cout << "hllo-c++";
 	
     return 0;
 }
+
